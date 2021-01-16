@@ -1,0 +1,39 @@
+[submodule "async-task"]
+	path = async-task
+	url = https://github.com/smol-rs/async-task
+[submodule "async-channel"]
+	path = async-channel
+	url = https://github.com/smol-rs/async-channel
+[submodule "async-executor"]
+	path = async-executor
+	url = https://github.com/smol-rs/async-executor
+[submodule "async-fs"]
+	path = async-fs
+	url = https://github.com/smol-rs/async-fs
+[submodule "async-io"]
+	path = async-io
+	url = https://github.com/smol-rs/async-io
+[submodule "async-lock"]
+	path = async-lock
+	url = https://github.com/smol-rs/async-lock
+[submodule "async-net"]
+	path = async-net
+	url = https://github.com/smol-rs/async-net
+[submodule "async-process"]
+	path = async-process
+	url = https://github.com/smol-rs/async-process
+[submodule "blocking"]
+	path = blocking
+	url = https://github.com/smol-rs/blocking
+[submodule "futures-lite"]
+	path = futures-lite
+	url = https://github.com/smol-rs/futures-lite
+[submodule "polling"]
+	path = polling
+	url = https://github.com/smol-rs/polling
+[submodule "smol"]
+	path = smol
+	url = https://github.com/smol-rs/smol
+[submodule "tokio"]
+	path = tokio
+	url = https://github.com/smol-rs/tokio
