@@ -36,4 +36,4 @@
 	url = https://github.com/smol-rs/smol
 [submodule "tokio"]
 	path = tokio
-	url = https://github.com/smol-rs/tokio
+	url = https://github.com/tokio-rs/tokio
