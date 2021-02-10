@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "async-channel",
+    "async-executor",
+    "async-fs",
+    "async-io",
+    "async-net",
+    "async-lock",
+    "async-process",
+    "async-task",
+    "blocking",
+    "futures-lite",
+    "polling",
+    "smol",
+]

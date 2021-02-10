@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/async-task/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-task/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-task/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-task/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-channel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-channel/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-executor/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-executor/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-executor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-executor/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-fs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-io/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-io/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-lock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-lock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/async-net/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-process/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-process/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/blocking/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/blocking/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/blocking/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/futures-lite/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polling/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polling/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/smol/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smol/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/async-task/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-channel/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-executor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-fs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-io/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-lock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-net/target" />
+      <excludeFolder url="file://$MODULE_DIR$/async-process/target" />
+      <excludeFolder url="file://$MODULE_DIR$/blocking/target" />
+      <excludeFolder url="file://$MODULE_DIR$/futures-lite/target" />
+      <excludeFolder url="file://$MODULE_DIR$/polling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/smol/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

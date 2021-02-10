@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-channel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-executor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-fs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-lock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-process" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blocking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/futures-lite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/polling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tokio" vcs="Git" />
+  </component>
+</project>
